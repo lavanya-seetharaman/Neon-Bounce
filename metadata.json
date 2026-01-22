@@ -1,0 +1,5 @@
+{
+  "name": "Neon Bounce",
+  "description": "A high-octane 2D endless ball bouncing game featuring gravity physics, combo scoring, and minimalist neon visuals.",
+  "requestFramePermissions": []
+}
